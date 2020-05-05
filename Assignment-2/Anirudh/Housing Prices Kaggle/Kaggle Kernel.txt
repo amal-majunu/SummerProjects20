@@ -1,0 +1,2 @@
+Kaggle Kernel Link
+https://www.kaggle.com/anirudhachal/housing-prices-with-basic-regression-models
